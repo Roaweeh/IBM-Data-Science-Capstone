@@ -7,3 +7,13 @@
 #### 4- Train a machine learning model to predict whether Space X will reuse the first stage
 
 
+### Summary of Methodologies
+#### Data Collection with API And Web Scraping
+#### Data Wrangling
+#### Exploratory Data Analysis with SQL
+#### Exploratory Data Analysis with Data Visualization
+#### Interactive Visual Analytics with Folium
+#### Machine Learning Prediction
+
+
+
